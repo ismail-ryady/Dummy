@@ -1,0 +1,1 @@
+It is a dummy repository for jenkins pipeline project
